@@ -4,6 +4,6 @@ collection: talks
 type: "Contributed Talk"
 permalink: /talks/2024-08-jsm-idlfm
 venue: "Joint Statistical Meetings (JSM)"
-date: 2024-08-01
+date: 2024-08-08
 location: "Portland, OR"
 ---
