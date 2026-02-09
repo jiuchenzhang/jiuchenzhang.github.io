@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: archive
 title: "Publications"
 permalink: /publications/
@@ -13,8 +13,8 @@ author_profile: true
 
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
-{% endfor %}
-<!-- 
+{% endfor %}  -->
+
 ---
 layout: archive
 title: "Publications"
@@ -26,7 +26,7 @@ author_profile: true
 You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
-## Selected Methodological & Statistical Research
+## Methodological & Statistical Research
 
 - **Neural Network Machine Regression (NNMR): A Deep Learning Framework for Uncovering High-order Synergistic Effects**  
   Jiuchen Zhang, Ling Zhou, Peter Song. *arXiv preprint*, 2026.  
@@ -42,7 +42,7 @@ You can also find my articles on <u><a href="{{author.googlescholar}}">my Google
 - **Tensor Factorization Recommender System with Dependency**  
   Jiuchen Zhang, Yubai Yuan, Annie Qu. *Electronic Journal of Statistics*, 2022.
 
-## Selected Collaborative & Applied Research
+## Collaborative & Applied Research
 
 - **Wearable Internet-of-Things Technology to Measure Sleep of Diverse Caregivers: Preliminary Results from a Randomized Controlled Trial**  
   Jung-Ah Lee, Jiuchen Zhang, Amir Rahmani, Annie Qu. *Alzheimer's & Dementia*, 2024.
@@ -56,11 +56,3 @@ You can also find my articles on <u><a href="{{author.googlescholar}}">my Google
 - **Identifying Sleep Disturbance Subtypes Among Dementia Caregivers Using Unsupervised Learning**  
   Eunbee Angela Kim, Jiuchen Zhang, Amir M. Rahmani, Sanghyuk Shin, Adeline Nyamathi, Jung-Ah Lee. *Manuscript in preparation.*
 
----
-
-## Full Publication List
-
-{% include base_path %}  
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}  -->
