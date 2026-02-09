@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Jiuchen Zhang"
 title_separator          : "-"
 name                     : &name "Jiuchen Zhang"
-description              : &description "Ph.D. Student at UCI"
+description              : &description "Postdoctoral Researcher in Biostatistics, University of Michigan"
 url                      : https://jiuchenzhang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "jiuchenzhang.github.io"
@@ -88,8 +88,8 @@ analytics:
 author:
   name             : "Jiuchen Zhang"
   avatar           : "jiuchen-zhang.jpg"
-  bio              : "Ph.D. Student at UC Irvine"
-  location         : "Irvine, CA"
+  bio              : "Postdoctoral Researcher in Biostatistics, University of Michigan"
+  location         : "Ann Arbor, MI"
   employer         :
   pubmed           :
   googlescholar    :
