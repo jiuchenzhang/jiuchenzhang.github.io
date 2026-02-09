@@ -4,6 +4,6 @@ collection: talks
 type: "Contributed Talk"
 permalink: /talks/2025-08-jsm-nn-variable-selection
 venue: "Joint Statistical Meetings (JSM)"
-date: 2025-08-01
+date: 2025-08-04
 location: "Nashville, TN"
 ---
