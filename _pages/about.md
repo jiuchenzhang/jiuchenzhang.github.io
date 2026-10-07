@@ -29,10 +29,6 @@ My research develops statistical and machine learning methodology for high-dimen
   <li><span class="news__date">Feb 2026</span> Two new preprints on arXiv: <a href="https://arxiv.org/abs/2602.02172">Neural Network Machine Regression (NNMR)</a> and <a href="https://arxiv.org/abs/2602.02246">cumulative treatment effect testing under continuous-time reinforcement learning</a>.</li>
   <li><span class="news__date">Aug 2025</span> Presented a scaling neural network approach for variable selection at JSM 2025 in Nashville, and chaired the session "Harnessing the Power of Large-Scale and Heterogeneous Data with Integrative Analysis."</li>
   <li><span class="news__date">2025</span> R package <a href="https://doi.org/10.32614/cran.package.idlfm">IDLFM</a> released on CRAN — nearly 3,000 downloads since May 2025.</li>
-  <li><span class="news__date">Aug 2024</span> First Place, ASA MDD Student Paper Competition at JSM 2024.</li>
-  <li><span class="news__date">Jul 2024</span> Joined the Department of Biostatistics at the University of Michigan as a postdoctoral research fellow.</li>
-  <li><span class="news__date">Mar 2024</span> Received an ENAR Distinguished Student Paper Award at the ENAR Spring Meeting.</li>
-  <li><span class="news__date">2024</span> <a href="https://academic.oup.com/biomet/article-abstract/111/4/1257/7642399">Individualized dynamic latent factor model</a> for mobile health data published in <i>Biometrika</i>.</li>
 </ul>
 
 ## Contact
