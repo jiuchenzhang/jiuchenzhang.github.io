@@ -31,6 +31,10 @@ Jiuchen Zhang, Yubai Yuan, Annie Qu. <i>Electronic Journal of Statistics</i>, 16
 
 ### Preprints & manuscripts under review
 
+**Multi-Task Active Learning with Efficient Resource Allocation**  
+Hanwen Ye, Jiuchen Zhang, Annie Qu. <i>arXiv preprint</i>, 2026. Under review.  
+<a class="btn btn--primary btn--small" href="https://arxiv.org/abs/2610.07045">arXiv</a>
+
 **Neural Network Machine Regression (NNMR): A Deep Learning Framework for Uncovering High-order Synergistic Effects**  
 Jiuchen Zhang, Ling Zhou, Peter X.-K. Song. <i>arXiv preprint</i>, 2026.  
 <a class="btn btn--primary btn--small" href="https://arxiv.org/abs/2602.02172">arXiv</a>
@@ -41,9 +45,6 @@ Jiuchen Zhang, Annie Qu. <i>arXiv preprint; revision under review</i>, 2026.
 
 - **Direct Multiple Function-on-Function Regression under Multi-resolution Sampling: Risk Decomposition and Structural Inference**  
   Jiming Chen, Jiuchen Zhang (corresponding author), Annie Qu. <i>Under review.</i>
-
-- **Multi-task Active Learning with Efficient Resource Allocation**  
-  Hanwen Ye, Jiuchen Zhang, Annie Qu. <i>Under review.</i>
 
 - **A Smooth Temporal Low-rank Basis for Neural Estimation of Cumulative Longitudinal Means**  
   Jiuchen Zhang, Peter X.-K. Song. <i>Under review.</i>

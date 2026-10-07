@@ -24,12 +24,11 @@ My research develops statistical and machine learning methodology for high-dimen
 ## Recent Updates
 
 <ul class="news">
+  <li><span class="news__date">Oct 2026</span> New preprint on arXiv: <a href="https://arxiv.org/abs/2610.07045">Multi-Task Active Learning with Efficient Resource Allocation</a> (with Hanwen Ye and Annie Qu).</li>
   <li><span class="news__date">2026</span> Discussion paper <i>Comments on "An Overview of Large Language Models for Statisticians"</i> accepted at <i>The American Statistician</i>.</li>
   <li><span class="news__date">2026</span> Paper on sleep disturbance subtypes among dementia caregivers accepted at <i>Nursing Research</i>.</li>
   <li><span class="news__date">Feb 2026</span> Two new preprints on arXiv: <a href="https://arxiv.org/abs/2602.02172">Neural Network Machine Regression (NNMR)</a> and <a href="https://arxiv.org/abs/2602.02246">cumulative treatment effect testing under continuous-time reinforcement learning</a>.</li>
-  <li><span class="news__date">Aug 2025</span> Presented a scaling neural network approach for variable selection at JSM 2025 in Nashville, and chaired the session "Harnessing the Power of Large-Scale and Heterogeneous Data with Integrative Analysis."</li>
-  <li><span class="news__date">2025</span> R package <a href="https://doi.org/10.32614/cran.package.idlfm">IDLFM</a> released on CRAN — nearly 3,000 downloads since May 2025.</li>
-</ul>
+  <li><span class="news__date">Aug 2025</span> Presented a scaling neural network approach for variable selection at JSM 2025 in Nashville, and chaired the session "Harnessing the Power of Large-Scale and Heterogeneous Data with Integrative Analysis."</li></ul>
 
 ## Contact
 
