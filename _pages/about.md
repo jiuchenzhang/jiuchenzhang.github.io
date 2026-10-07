@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to Jiuchen's Personal Website"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from:
@@ -14,4 +14,6 @@ My research develops statistical and machine learning methodology for high-dimen
 
 **Current focus:** Interpretable neural network models and selection-aware inference for longitudinal exposome data and child growth outcomes.
 
-[Here is my CV.](http://jiuchenzhang.github.io/files/PhD_CV.pdf)
+**I am on the 2026–2027 academic job market.** Please feel free to reach out at [jiuchen@umich.edu](mailto:jiuchen@umich.edu).
+
+[Here is my CV.](/files/Jiuchen_Zhang_CV.pdf)
