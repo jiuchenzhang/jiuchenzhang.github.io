@@ -4,6 +4,6 @@ collection: talks
 type: "Contributed Talk"
 permalink: /talks/2024-03-enar-idlfm
 venue: "ENAR Spring Meeting"
-date: 2024-02-12
+date: 2024-03-12
 location: "Baltimore, MD"
 ---

@@ -1,0 +1,95 @@
+/* ==========================================================================
+   Custom site polish (loaded after all theme partials)
+   ========================================================================== */
+
+/* Links: keep visited links the same color as unvisited */
+a:visited {
+  color: $link-color;
+}
+
+/* Masthead */
+.masthead {
+  border-bottom: 1px solid $border-color;
+}
+
+.masthead .site-title {
+  font-family: $serif;
+  font-weight: 700;
+  letter-spacing: 0.01em;
+}
+
+.greedy-nav a {
+  font-weight: 600;
+}
+
+/* Page body text */
+.page__content {
+  font-size: 1.02em;
+  line-height: 1.75;
+
+  h2 {
+    margin-top: 1.6em;
+    padding-bottom: 0.3em;
+    border-bottom: 1px solid $border-color;
+  }
+
+  h3 {
+    color: $primary-color;
+  }
+}
+
+.page__title {
+  font-family: $serif;
+}
+
+/* Sidebar author profile */
+.author__avatar img {
+  border-radius: 50%;
+}
+
+@include breakpoint($large) {
+  .author__avatar img {
+    max-width: 160px;
+    box-shadow: 0 1px 4px rgba(0, 0, 0, 0.15);
+  }
+}
+
+.author__name {
+  font-family: $serif;
+  font-size: 1.15em;
+}
+
+/* Recent-updates feed on the homepage */
+.news {
+  list-style: none;
+  margin-left: 0;
+  padding-left: 0;
+
+  li {
+    margin-bottom: 0.6em;
+    padding-left: 6.5em;
+    text-indent: -6.5em;
+  }
+
+  .news__date {
+    display: inline-block;
+    width: 6em;
+    margin-right: 0.5em;
+    font-weight: 600;
+    color: $primary-color;
+    text-indent: 0;
+    font-variant-numeric: tabular-nums;
+  }
+}
+
+/* Contact block */
+.contact-address {
+  font-style: normal;
+  line-height: 1.6;
+}
+
+/* Softer primary notices */
+.notice--primary {
+  background-color: mix(#fff, $primary-color, 95%);
+  border-left: 4px solid $primary-color;
+}
