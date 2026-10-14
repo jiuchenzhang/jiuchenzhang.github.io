@@ -39,8 +39,8 @@ Hanwen Ye, Jiuchen Zhang, Annie Qu. <i>arXiv preprint</i>, 2026. Under review.
 Jiuchen Zhang, Ling Zhou, Peter X.-K. Song. <i>arXiv preprint</i>, 2026.  
 <a class="btn btn--primary btn--small" href="https://arxiv.org/abs/2602.02172">arXiv</a>
 
-**Cumulative Treatment Effect Testing under Continuous-Time Reinforcement Learning**  
-Jiuchen Zhang, Annie Qu. <i>arXiv preprint; revision under review</i>, 2026.  
+**Testing Cumulative Treatment Effects in Continuous Time with ODE Dynamics and Noisy Observations**  
+Jiuchen Zhang, Annie Qu. <i>Revision under review</i>, 2026. (arXiv version posted under an earlier title.)  
 <a class="btn btn--primary btn--small" href="https://arxiv.org/abs/2602.02246">arXiv</a>
 
 - **Direct Multiple Function-on-Function Regression under Multi-resolution Sampling: Risk Decomposition and Structural Inference**  
