@@ -44,9 +44,9 @@ Jiuchen Zhang, Annie Qu. <i>arXiv preprint; revision under review</i>, 2026.
 <a class="btn btn--primary btn--small" href="https://arxiv.org/abs/2602.02246">arXiv</a>
 
 - **Direct Multiple Function-on-Function Regression under Multi-resolution Sampling: Risk Decomposition and Structural Inference**  
-  Jiming Chen, Jiuchen Zhang (corresponding author), Annie Qu. <i>Under review.</i>
+  Jiming Chen, Jiuchen Zhang (corresponding author), Niansheng Tang, Annie Qu. <i>Under review.</i>
 
-- **A Smooth Temporal Low-rank Basis for Neural Estimation of Cumulative Longitudinal Means**  
+- **A Smooth Low-rank Time Basis for Neural Estimation of Cumulative Longitudinal Means**  
   Jiuchen Zhang, Peter X.-K. Song. <i>Under review.</i>
 
 - **VEA-aware Uncertainty for LLM Chain of Actions**  
@@ -57,11 +57,11 @@ Jiuchen Zhang, Annie Qu. <i>arXiv preprint; revision under review</i>, 2026.
 
 ### Manuscripts in preparation
 
-- **Adaptive Projection-powered Quantile Regression with Auxiliary Data under Arbitrary Distribution Shift**  
-  Menghan Yi (co-first), Jiuchen Zhang (co-first), Huixia Judy Wang, Peter X.-K. Song. <i>Manuscript in preparation.</i>
-
 - **Likelihood-based Inference for Binary Decision Trees via the Binary Expansion Framework**  
   Jiuchen Zhang, Kai Zhang, Peter X.-K. Song. <i>Manuscript in preparation.</i>
+
+- **Projection-powered Quantile Regression with Auxiliary Data and Transfer Learning**  
+  Menghan Yi (co-first), Jiuchen Zhang (co-first), Huixia Judy Wang, Peter X.-K. Song. <i>Manuscript in preparation.</i>
 
 ---
 
