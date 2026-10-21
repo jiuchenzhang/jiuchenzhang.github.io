@@ -30,6 +30,8 @@ My research develops statistical and machine learning methodology for high-dimen
   <li><span class="news__date">Feb 2026</span> Two new preprints on arXiv: <a href="https://arxiv.org/abs/2602.02172">Neural Network Machine Regression (NNMR)</a> and <a href="https://arxiv.org/abs/2602.02246">cumulative treatment effect testing under continuous-time reinforcement learning</a>.</li>
   <li><span class="news__date">Aug 2025</span> Presented a scaling neural network approach for variable selection at JSM 2025 in Nashville, and chaired the session "Harnessing the Power of Large-Scale and Heterogeneous Data with Integrative Analysis."</li></ul>
 
+Outside of research, I enjoy fishing, hiking, and gardening.
+
 ## Contact
 
 <address class="contact-address">

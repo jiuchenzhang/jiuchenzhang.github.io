@@ -62,3 +62,7 @@ Professional Memberships
 * Institute of Mathematical Statistics
 * International Chinese Statistical Association
 * Eastern North American Region, International Biometric Society
+
+Personal Interests
+======
+* Fishing, hiking, and gardening
