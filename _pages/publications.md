@@ -71,7 +71,8 @@ Interdisciplinary studies in caregiving, wearable/mobile health, and environment
 </div>
 
 **Unsupervised Learning Identifies Sleep Disturbance Subtypes Among Dementia Caregivers**  
-Eunbee Angela Kim, Jiuchen Zhang, Amir M. Rahmani, Sanghyuk Shin, Adeline Nyamathi, Jung-Ah Lee. <i>Nursing Research</i>, accepted, 2026.
+Eunbee Angela Kim, Jiuchen Zhang, Amir M. Rahmani, Sanghyuk Shin, Adeline Nyamathi, Jung-Ah Lee. <i>Nursing Research</i>, 2026 (online ahead of print).  
+<a class="btn btn--primary btn--small" href="https://doi.org/10.1097/NNR.0000000000000935">Journal</a> <a class="btn btn--primary btn--small" href="https://pubmed.ncbi.nlm.nih.gov/42565376/">PubMed</a>
 
 **Effects of Perinatal Lead Exposure with Antioxidant Diet Supplementation on Murine Offspring Growth and Metabolic Outcomes in Adulthood**  
 Junru Pan, Jiuchen Zhang, Zheshi Zheng, Peter X.-K. Song, Justin A. Colacino, Karen E. Peterson, Dana C. Dolinoy. <i>Under review.</i>
